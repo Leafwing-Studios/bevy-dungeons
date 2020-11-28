@@ -1,3 +1,3 @@
-# Introduction bit
+# Introduction
 
-This is the base splash page! It is where you put the intro or whatever.
+We're making a dungeon generator in bevy.
