@@ -17,3 +17,4 @@
 ## Uncertainties
 - What data model is this workflow expecting as input?
 - What data model does this workflow create as output?
+- What are the breakpoints within this workflow, and what data models do you have at each breakpoint?
