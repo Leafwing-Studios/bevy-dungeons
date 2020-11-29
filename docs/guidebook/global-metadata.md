@@ -23,6 +23,7 @@
 - [expected] Semantic and stylistic elements of the final dungeon should be decoupled
   - Modular stylistic elements (swap out styles easily for a dungeon)
 - [expected] Leverages bevy tilemap library
+- [expected] At each stage in generation, there is some set of well-defined data models to be produced, to ensure modularity of components
 - [desired] Users can swap out different high level "layout algorithms" easily (ex: locks and keys generation, evolutionary generation)
 - [desired] Can add in extra "modules" that provide additional generator functionality (ex: plot, loot generation, etc.)
 - [desired] Users can pass in criteria for acceptable dungeons through some API. The system will generate dungeons that fit within (start with rejection sampling)

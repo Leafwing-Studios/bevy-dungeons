@@ -1,3 +1,4 @@
 - [Introduction](README.md)
+- [Generation Workflow](workflow.md)
 - [Guidebook](guidebook/README.md)
   - [Global Metadata](guidebook/global-metadata.md)
