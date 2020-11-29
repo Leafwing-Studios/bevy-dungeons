@@ -34,3 +34,8 @@
 
 ## Uncertainties
 - How should we decouple semantics and stylistic elements?
+- Do we want to integrate with bevy tilemap?
+- What is the general architecture and API design?
+- Should we provide support to just show a list of rooms and how they are connected? (With no paths between)
+- How do we generate the graphs of connected rooms?
+- What is larger AI pattern for the generation? (What is decided at what times)
